@@ -3,6 +3,9 @@ import './assets/main.css';
 import { createApp } from 'vue';
 import { createRouter, createWebHistory } from 'vue-router';
 import App from './App.vue';
+import "bootstrap/dist/css/bootstrap.min.css"
+import "bootstrap"
+import "bootstrap-icons/font/bootstrap-icons.css"
 // import Home from '@/views/Home.vue';
 import Home from './views/Home.vue';
 import About from './views/About.vue';
@@ -29,9 +32,14 @@ const router = createRouter({
   routes: [
     { path: '/', name: 'Home', component: Home },
     { path: '/about', name: 'About', component: About },
+    { path: '/colaboradores', name: 'Colaboradores', component: () => import('./views/Colaboradores.vue') },
+    { path: '/demanda', name: 'Demanda', component: () => import('./views/Demanda.vue') },
+    { path: '/programacao', name: 'Programacao', component: () => import('./views/Programacao.vue') },
+
   ],
 });
 
 
+
 createApp(App).use(router).mount('#app');
-export{ db };
+export { db };
