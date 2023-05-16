@@ -10,7 +10,7 @@
         </div>
 
         <div class="row">
-            <div class="col-xl-5">
+            <div class="col-md-5">
                 <div class="card" style="position: -webkit-sticky; position: sticky; top: 0;">
 
                     <div class="card-body">
@@ -23,8 +23,8 @@
                     <!-- end col-->
                 </div>
                 <!-- end Calendário Padrão-->
-                <div class="row" style="position: -webkit-sticky; position: sticky; top: 720px;">
-                    <div class="col-xl-4">
+                <div class="row" style="position: -webkit-sticky; position: sticky; top: 350px;">
+                    <div class="col-md-4">
                         <div class="card">
                             <div class="card-body text-center">
                                 <h4 class="header-title">25</h4>
@@ -32,7 +32,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-4">
+                    <div class="col-md-4">
                         <div class="card">
                             <div class="card-body text-center">
                                 <h4 class="header-title">3</h4>
@@ -40,7 +40,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-xl-4">
+                    <div class="col-md-4">
                         <div class="card">
                             <div class="card-body text-center">
                                 <h4 class="header-title">28</h4>
@@ -53,7 +53,7 @@
 
 
             </div>
-            <div class="col-xl-7">
+            <div class="col-md-7">
                 <!-- Lista de Agendamentos -->
                 <div class="card styled-scroll">
                     <div class="d-flex card-header justify-content-between align-items-center">
@@ -400,14 +400,14 @@ export default {
     mounted() {
 
         var defaultEvents = [{
-            title: '<i class="fa-lg bi bi-send-check"></i>',
+            title: '<i class="fa-md bi bi-send-check"></i>',
             start: "2023-05-02T06:00:00",
             end: "2023-05-02T10:00:00",
             className: 'bg-warning',
             extendedProps: { period: '', idProgramacao: 954232 }
         },
         {
-            title: '<i class="fa-lg bi bi-send-check"></i>>',
+            title: '<i class="fa-md bi bi-send-check"></i>>',
             start: "2023-05-05T06:00:00",
             end: "2023-05-05T10:00:00",
             className: 'bg-warning',
@@ -415,21 +415,21 @@ export default {
         },
 
         {
-            title: '<i class="fa-lg bi bi-send-check"></i>',
+            title: '<i class="fa-md bi bi-send-check"></i>',
             start: "2023-05-20T06:00:00",
             end: "2023-05-20T10:00:00",
             className: 'bg-warning',
             extendedProps: { period: '', idProgramacao: 22311 }
         },
         {
-            title: '<i class="fa-lg bi bi-send-check"></i>',
+            title: '<i class="fa-md bi bi-send-check"></i>',
             start: "2023-05-30T06:00:00",
             end: "2023-05-30T10:00:00",
             className: 'bg-warning',
             extendedProps: { period: '', idProgramacao: 23370 }
         },
         {
-            title: '<i class="fa-lg bi bi-send-check"></i>',
+            title: '<i class="fa-md bi bi-send-check"></i>',
             start: "2023-05-21T06:00:00",
             end: "2023-05-21T10:00:00",
             className: 'bg-warning',

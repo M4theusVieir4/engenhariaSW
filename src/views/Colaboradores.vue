@@ -23,7 +23,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-6">
+            <div class="col-md-6">
                 <div class="card">
                     <div class="card-body">
                         <h4 class="header-title">Ranking de Agendamentos</h4>
@@ -324,7 +324,7 @@ export default {
             }],
             chart: {
                 id: 'barYear',
-                height: 500,
+                height: 380,
                 width: '100%',
                 type: 'bar',
                 events: {
@@ -409,10 +409,6 @@ export default {
                 }
             },
             title: {
-                text: 'Quantidade agendamentos por funcionário',
-                offsetX: 15
-            },
-            subtitle: {
                 text: '(Clique na barra para ver os detalhes)',
                 offsetX: 15
             },
@@ -432,7 +428,7 @@ export default {
             }],
             chart: {
                 id: 'barQuarter',
-                height: 500,
+                height: 380,
                 width: '100%',
                 type: 'bar',
                 stacked: true
@@ -464,7 +460,7 @@ export default {
                 }
             },
             title: {
-                text: 'Thiago',
+
                 offsetX: 10
             },
             tooltip: {

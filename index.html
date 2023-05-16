@@ -3,8 +3,9 @@
 
 <head>
   <script>
-    window.onload = function () {
-      var close = document.querySelector("#close-btn")
+    window.addEventListener("DOMContentLoaded", () => {
+      console.log("lalalala")
+      var close = document.querySelector("#btn")
       var sidebar = document.querySelector('main aside .sidebar')
       console.log(close)
 
@@ -13,10 +14,15 @@
           sidebar.classList.add('oculto')
         } else {
           sidebar.classList.remove('oculto')
-
         }
       }
-    }
+      open.onclick = e => {
+        console.log(e)
+        if (sidebar.classList.contains('.oculto')) {
+          sidebar.classList.remove('oculto')
+        }
+      }
+    })
 
   </script>
   <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
@@ -64,15 +70,15 @@
   </nav>
   <main>
     <aside>
-      <button type="button" id="close-btn">
-        <span class="material-icons-sharp"></span>
+      <button type="button" id="btn" style="width:20px">
+        <i class="bi bi-circle"></i>
       </button>
       <div class="sidebar">
-        <a href="/colaboradores" class="active">
-          <span class="material-icons-sharp">dashboard</span>
-          <h4 class="txt">Dashboards</h4>
+        <a href="/">
+          <span class="material-icons-sharp">home</span>
+          <h4 class="txt">Home</h4>
         </a>
-        <a href="./graficos.html">
+        <a href="/colaboradores">
           <span class="material-icons-sharp">
             query_stats
           </span>

@@ -1,15 +1,9 @@
 <template>
     <div class="programacao">
         <!-- Personal-Information -->
-        <nav aria-label="breadcrumb">
-            <ol class="breadcrumb bg-light-lighten p-2 mb-0">
-                <li class="breadcrumb-item"><a href="../Home.aspx"><i class="uil-home-alt"></i> Home</a></li>
-                <li class="breadcrumb-item"><a href="./ConfirmacaoProgramacao.aspx">Programações</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Programação</li>
-            </ol>
-        </nav>
+
         <div class="row">
-            <div class="col-sm-12">
+            <div class="col-md-12">
                 <!-- PROFILE -->
                 <div class="card bg-brown">
                     <div class="card-body profile-user-box">
@@ -78,7 +72,7 @@
         </div> <!--end row -->
 
         <div class="row">
-            <div class="col-xl-4">
+            <div class="col-md-4">
                 <!-- DADOS DO SOLICITANTE -->
                 <div class="card">
                     <div class="card-body">
@@ -182,7 +176,7 @@
                 </div>
             </div><!-- end col 1-->
 
-            <div class="col-xl-8">
+            <div class="col-md-8">
                 <!--SERVIÇOS-->
                 <div class="card">
                     <div class="card-body">

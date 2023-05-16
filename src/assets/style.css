@@ -225,12 +225,13 @@
  main aside {
      display: flex;
      flex-direction: column;
-     justify-content: space-between;
+
      height: 88vh;
  }
 
  .txt {
      color: #27282f;
+     display: block;
  }
 
 
@@ -266,13 +267,7 @@
      color: var(--color-primary);
  }
 
- main aside .sidebar a.active:before {
-     content: '';
-     width: 6px;
-     height: 100%;
-     position: absolute;
-     background: var(--color-primary);
- }
+
 
  main aside .sidebar a:hover {
      color: var(--color-primary);
