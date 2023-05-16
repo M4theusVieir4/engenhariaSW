@@ -1,12 +1,6 @@
 <template>
     <!-- Calendário Padrão-->
     <div class="demanda">
-        <nav aria-label="breadcrumb">
-            <ol class="breadcrumb bg-light-lighten p-2 mb-0">
-                <li class="breadcrumb-item"><a href="./"><i class="uil-home-alt"></i>Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Demanda Logística</li>
-            </ol>
-        </nav>
         <div class="row">
             <div class="col-md-12 mb-3 mt-3">
                 <!-- Título Pág -->
@@ -446,8 +440,8 @@ export default {
         var calendarEl = document.getElementById('calendar');
         var calendar = new Calendar(calendarEl, {
 
-            height: 600,
-            width: 600,
+            height: 300,
+            width: 300,
             initialView: 'dayGridMonth',
             locale: 'pt-br',
             initialEvents: defaultEvents,

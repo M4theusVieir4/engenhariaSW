@@ -1,15 +1,8 @@
 <template>
     <div class="colaboradores">
-        <nav aria-label="breadcrumb">
-            <ol class="breadcrumb bg-light-lighten p-2 mb-0">
-                <li class="breadcrumb-item"><a href="./"><i class="uil-home-alt"></i>Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Agendamentos por Colaboradores</li>
-            </ol>
-        </nav>
-
         <div class="row">
-            <div class="col-md-12 mb-3 mt-3"> <!-- Título Pág -->
-                <h2 class="card-title mb-0">Agendamentos Realizados por Colaborador (EM CONSTRUÇÃO - DADOS FICTÍCIOS)</h2>
+            <div class="col-md-12 mb-3"> <!-- Título Pág -->
+                <h2 class="card-title mb-0">Agendamentos Realizados por Colaborador</h2>
             </div><!-- end col e Título Pág -->
         </div>
         <div class="row">
@@ -331,7 +324,7 @@ export default {
             }],
             chart: {
                 id: 'barYear',
-                height: 580,
+                height: 500,
                 width: '100%',
                 type: 'bar',
                 events: {
@@ -439,7 +432,7 @@ export default {
             }],
             chart: {
                 id: 'barQuarter',
-                height: 580,
+                height: 500,
                 width: '100%',
                 type: 'bar',
                 stacked: true
