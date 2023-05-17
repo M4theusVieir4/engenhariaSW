@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vue-apexcharts"></script>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard Metis</title>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Sharp" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css?family=Poppins: wght@300; 400; 500; 600; 700&display=swap"
+    rel="stylesheet">
+  
+  <link rel="icon" href="/favicon.ico">
+  <script type="module" crossorigin src="/assets/index-4c9822a7.js"></script>
+  <link rel="stylesheet" href="/assets/index-9a407b01.css">
+</head>
+
+<body>
+
+  <nav>
+    <div class="container">
+      <img src="/assets/logo-56534306.jpeg" class="logo">
+      <div class="search-bar">
+        <span class="material-icons-sharp">search</span>
+        <input type="search" placeholder="Search">
+      </div>
+      <div class="profile-area">
+        <div class="theme-btn">
+          <span class="material-icons-sharp active">light_mode</span>
+          <span class="material-icons-sharp">dark_mode</span>
+        </div>
+        <div class="profile">
+          <div class="profile-photo">
+            <img scr="./images/profile1.jpg">
+          </div>
+          <h5>Metis</h5>
+          <span class="material-icons-sharp">expand_more
+          </span>
+        </div>
+        <button id="menu-btn">
+          <span class="material-icons-sharp">menu</span>
+        </button>
+      </div>
+    </div>
+  </nav>
+  <main>
+    <aside>
+      <button type="button" id="btn" style="width:20px">
+        <i class="bi bi-circle"></i>
+      </button>
+      <div class="sidebar">
+        <a href="/">
+          <span class="material-icons-sharp">home</span>
+          <h4 class="txt">Home</h4>
+        </a>
+        <a href="/colaboradores">
+          <span class="material-icons-sharp">
+            query_stats
+          </span>
+          <h4 class="txt">Graficos</h4>
+        </a>
+        <a href="./calculadora.html">
+          <span class="material-icons-sharp">calculate</span>
+          <h4 class="txt">calculadora</h4>
+        </a>
+        <a href="/demanda">
+          <span class="material-icons-sharp"><i class="bi bi-truck-front-fill"></i></span>
+          <h4 class="txt">logística</h4>
+        </a>
+        <a href="#">
+          <span class="material-icons-sharp">currency_exchange</span>
+          <h4 class="txt">vendas</h4>
+        </a>
+        <a href="#">
+          <span class="material-icons-sharp">payments+
+
+          </span>
+          <h4 class="txt">pagamentos</h4>
+        </a>
+        <a href="#">
+          <span class="material-icons-sharp">settings</span>
+          <h4 class="txt">configurações</h4>
+        </a>
+      </div>
+    </aside>
+
+
+    <section class="right">
+      <div id="app"></div>
+    </section>
+  </main>
+  
+
+  <script>
+    window.addEventListener("DOMContentLoaded", () => {
+      console.log("lalalala")
+      var close = document.querySelector("#btn")
+      var sidebar = document.querySelector('main aside .sidebar')
+      console.log(close)
+
+      close.onclick = e => {
+        if (!sidebar.classList.contains('.oculto')) {
+          sidebar.classList.add('oculto')
+        } else {
+          sidebar.classList.remove('oculto')
+        }
+      }
+      open.onclick = e => {
+        console.log(e)
+        if (sidebar.classList.contains('.oculto')) {
+          sidebar.classList.remove('oculto')
+        }
+      }
+    })
+  </script>
+
+</body>
+
+</html>
