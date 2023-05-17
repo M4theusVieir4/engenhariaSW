@@ -400,14 +400,14 @@ export default {
     mounted() {
 
         var defaultEvents = [{
-            title: '<i class="fa-md bi bi-send-check"></i>',
+            title: '<i class="fa-sm bi bi-send-check"></i>',
             start: "2023-05-02T06:00:00",
             end: "2023-05-02T10:00:00",
             className: 'bg-warning',
             extendedProps: { period: '', idProgramacao: 954232 }
         },
         {
-            title: '<i class="fa-md bi bi-send-check"></i>>',
+            title: '<i class="fa-sm bi bi-send-check"></i>>',
             start: "2023-05-05T06:00:00",
             end: "2023-05-05T10:00:00",
             className: 'bg-warning',
