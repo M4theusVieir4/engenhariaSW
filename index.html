@@ -2,29 +2,6 @@
 <html lang="en">
 
 <head>
-  <script>
-    window.addEventListener("DOMContentLoaded", () => {
-      console.log("lalalala")
-      var close = document.querySelector("#btn")
-      var sidebar = document.querySelector('main aside .sidebar')
-      console.log(close)
-
-      close.onclick = e => {
-        if (!sidebar.classList.contains('.oculto')) {
-          sidebar.classList.add('oculto')
-        } else {
-          sidebar.classList.remove('oculto')
-        }
-      }
-      open.onclick = e => {
-        console.log(e)
-        if (sidebar.classList.contains('.oculto')) {
-          sidebar.classList.remove('oculto')
-        }
-      }
-    })
-
-  </script>
   <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
   <script src="https://cdn.jsdelivr.net/npm/vue-apexcharts"></script>
   <meta charset="UTF-8">
@@ -115,6 +92,29 @@
     </section>
   </main>
   <script type="module" src="/src/main.js"></script>
+
+  <script>
+    window.addEventListener("DOMContentLoaded", () => {
+      console.log("lalalala")
+      var close = document.querySelector("#btn")
+      var sidebar = document.querySelector('main aside .sidebar')
+      console.log(close)
+
+      close.onclick = e => {
+        if (!sidebar.classList.contains('.oculto')) {
+          sidebar.classList.add('oculto')
+        } else {
+          sidebar.classList.remove('oculto')
+        }
+      }
+      open.onclick = e => {
+        console.log(e)
+        if (sidebar.classList.contains('.oculto')) {
+          sidebar.classList.remove('oculto')
+        }
+      }
+    })
+  </script>
 
 </body>
 
