@@ -1760,7 +1760,7 @@
                                         <a href="javascript:void(0);" data-bs-container="#tooltip-container"
                                             data-bs-toggle="tooltip" data-bs-placement="top" title="Mat Helme"
                                             class="d-inline-block">
-                                            <img src="Figuras/usuariosSGI/aline.oliveira.jpg" alt="user-img">
+
                                         </a>
                                     </div>
                                 </div>
@@ -1795,8 +1795,8 @@
                                     </div>
 
                                     <div class="d-flex mt-2">
-                                        <img class="me-3 avatar-sm rounded-circle"
-                                            src="Figuras/usuariosSGI/aline.oliveira.jpg" alt="user-img">
+                                        <img class="me-3 avatar-sm rounded-circle">
+
                                         <div class="w-100">
                                             <h5 class="mt-0">Jeremy Tomlinson</h5>
                                             Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque
@@ -1842,7 +1842,7 @@
                                     <div class="p-2">
                                         <div class="row align-items-center">
                                             <div class="col-auto">
-                                                <img src="Figuras/usuariosSGI/aline.oliveira.jpg" alt="user-img" />
+
                                             </div>
                                             <div class="col ps-0">
                                                 <a href="javascript:void(0);"
