@@ -23,7 +23,7 @@
                     <!-- end col-->
                 </div>
                 <!-- end Calendário Padrão-->
-                <div class="row" style="position: -webkit-sticky; position: sticky; top: 350px;">
+                <div class="row" style="position: -webkit-sticky; position: sticky; top: 380px;">
                     <div class="col-md-4">
                         <div class="card">
                             <div class="card-body text-center">
@@ -74,15 +74,14 @@
                                                     </span>
                                                 </p>
                                                 <p class="inbox-item-text mb"><strong>Destino remessa:</strong> Técnico</p>
-                                                <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
-                                                        href="Cliente.aspx?id=20210331163058">01 CARGO TRANSPORTES</a></p>
+
                                                 <p class="inbox-item-text" id="954232"><strong>Ordem de Serviço:</strong> <a
                                                         target="_blank" href="/programacao">954232</a>
                                                 </p>
                                             </td>
 
                                             <td>
-                                                <p class="inbox-item-text mb-3"><strong>Proposta:</strong> 789123</p>
+                                                <p class="inbox-item-text mb-3"><strong>Código:</strong> 789123</p>
                                                 <p class="inbox-item-text mb-3"><strong>Operação:</strong> Instalação</p>
                                                 <p class="inbox-item-text"><strong>Produto:</strong> Imobilizador</p>
                                             </td>
@@ -91,7 +90,8 @@
                                                 <p class="inbox-item-text mb-3"><strong>Qtd. Serviços:</strong> 8</p>
                                                 <p class="inbox-item-text mb-3"><strong>Localidade:</strong> Jundiaí / SP
                                                 </p>
-                                                <p class="inbox-item-text"><strong>kit BOM:</strong> 2211</p>
+                                                <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
+                                                        href="Cliente.aspx?id=20210331163058">CA TRANSPORTES</a></p>
                                             </td>
                                         </tr>
 
@@ -104,14 +104,13 @@
                                                     </span>
                                                 </p>
                                                 <p class="inbox-item-text mb"><strong>Destino remessa:</strong> Cliente</p>
-                                                <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
-                                                        href="Clientes.aspx">ARTICO LOG LTDA</a></p>
+
                                                 <p class="inbox-item-text" id="21825"><strong>Ordem de Serviço:</strong> <a
                                                         target="_blank" href="/programacao">21825</a></p>
                                             </td>
 
                                             <td>
-                                                <p class="inbox-item-text mb-3"><strong>Proposta:</strong> 789123</p>
+                                                <p class="inbox-item-text mb-3"><strong>Código:</strong> 789123</p>
                                                 <p class="inbox-item-text mb-3"><strong>Operação:</strong> Instalação</p>
                                                 <p class="inbox-item-text"><strong>Produto:</strong> Imobilizador</p>
                                             </td>
@@ -119,7 +118,8 @@
                                                 <p class="inbox-item-text mb-3"><strong>Qtd. Serviços:</strong> 8</p>
                                                 <p class="inbox-item-text mb-3"><strong>Localidade:</strong> Jundiaí / SP
                                                 </p>
-                                                <p class="inbox-item-text"><strong>kit BOM:</strong> 2211</p>
+                                                <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
+                                                        href="Clientes.aspx">Transportadora LCK</a></p>
                                             </td>
                                         </tr>
                                         <tr>
@@ -131,22 +131,22 @@
                                                     </span>
                                                 </p>
                                                 <p class="inbox-item-text mb"><strong>Destino remessa:</strong> Cliente</p>
-                                                <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
-                                                        href="Clientes.aspx">ARTICO LOG LTDA</a></p>
+
                                                 <p class="inbox-item-text" id="23370"><strong>Programação:</strong> <a
                                                         target="_blank" href="/programacao">23370</a></p>
                                             </td>
                                             <td>
                                                 <p class="inbox-item-text mb-3"><strong>Proposta:</strong> 789123</p>
                                                 <p class="inbox-item-text mb-3"><strong>Operação:</strong> Instalação</p>
-                                                <p class="inbox-item-text"><strong>Produto:</strong> Imobilizador</p>
+                                                <p class="inbox-item-text"><strong>Produto:</strong> Bloqueador</p>
                                             </td>
 
                                             <td>
                                                 <p class="inbox-item-text mb-3"><strong>Qtd. Serviços:</strong> 8</p>
                                                 <p class="inbox-item-text mb-3"><strong>Localidade:</strong> Jundiaí / SP
                                                 </p>
-                                                <p class="inbox-item-text"><strong>kit BOM:</strong> 2211</p>
+                                                <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
+                                                        href="Clientes.aspx">CA Transporte</a></p>
                                             </td>
                                         </tr>
                                         <tr>
@@ -158,21 +158,21 @@
                                                     </span>
                                                 </p>
                                                 <p class="inbox-item-text mb"><strong>Destino remessa:</strong> Técnico</p>
-                                                <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
-                                                        href="Clientes.aspx">MIRASSOL LOGISTICA LTDA - FILIAL</a></p>
+
                                                 <p class="inbox-item-text" id="1055301"><strong>Ordem de Servico:</strong>
                                                     <a target="_blank" href="/programacao">1055301</a>
                                                 </p>
                                             </td>
                                             <td>
-                                                <p class="inbox-item-text mb-3"><strong>Proposta:</strong> 789123</p>
+                                                <p class="inbox-item-text mb-3"><strong>Código:</strong> 789123</p>
                                                 <p class="inbox-item-text mb-3"><strong>Operação:</strong> Instalação</p>
-                                                <p class="inbox-item-text"><strong>Produto:</strong> SMART CARRETA</p>
+                                                <p class="inbox-item-text"><strong>Produto:</strong> Bloqueador</p>
                                             </td>
                                             <td>
                                                 <p class="inbox-item-text mb-3"><strong>Qtd. Serviços:</strong> 8</p>
                                                 <p class="inbox-item-text mb-3"><strong>Localidade:</strong> Macaé / SP</p>
-                                                <p class="inbox-item-text"><strong>kit BOM:</strong> 2211</p>
+                                                <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
+                                                        href="Clientes.aspx">Transportadora DUEL</a></p>
                                             </td>
                                         </tr>
                                         <tr>
@@ -184,8 +184,7 @@
                                                     </span>
                                                 </p>
                                                 <p class="inbox-item-text mb"><strong>Destino remessa:</strong> Cliente</p>
-                                                <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
-                                                        href="Clientes.aspx">MARGIL TRANSPORTES LTDA</a></p>
+
                                                 <p class="inbox-item-text" id="22311"><strong>Programação:</strong> <a
                                                         target="_blank" href="/programacao">22311</a></p>
                                             </td>
@@ -193,14 +192,16 @@
                                             <td>
                                                 <p class="inbox-item-text mb-3"><strong>Proposta:</strong> 789123</p>
                                                 <p class="inbox-item-text mb-3"><strong>Operação:</strong> Instalação</p>
-                                                <p class="inbox-item-text"><strong>Produto:</strong> Imobilizador</p>
+                                                <p class="inbox-item-text"><strong>Produto:</strong> Bloqueador</p>
                                             </td>
 
                                             <td>
                                                 <p class="inbox-item-text mb-3"><strong>Qtd. Serviços:</strong> 8</p>
                                                 <p class="inbox-item-text mb-3"><strong>Localidade:</strong> Jundiaí / SP
                                                 </p>
-                                                <p class="inbox-item-text"><strong>kit BOM:</strong> 2211</p>
+                                                <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
+                                                        href="Clientes.aspx">TRANSPORTES LCQ</a></p>
+
                                             </td>
                                         </tr>
                                         <tr>
@@ -211,53 +212,25 @@
                                                     </span>
                                                 </p>
                                                 <p class="inbox-item-text mb"><strong>Destino remessa:</strong> Técnico</p>
-                                                <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
-                                                        href="Cliente.aspx?id=20210331163058">01 CARGO TRANSPORTES</a></p>
+
                                                 <p class="inbox-item-text" id=""><strong>Ordem de Serviço:</strong> <a
                                                         target="_blank" href="/programacao">954232</a>
                                                 </p>
                                             </td>
 
                                             <td>
-                                                <p class="inbox-item-text mb-3"><strong>Proposta:</strong> 789123</p>
+                                                <p class="inbox-item-text mb-3"><strong>Código:</strong> 789123</p>
                                                 <p class="inbox-item-text mb-3"><strong>Operação:</strong> Instalação</p>
-                                                <p class="inbox-item-text"><strong>Produto:</strong> Imobilizador</p>
+                                                <p class="inbox-item-text"><strong>Produto:</strong> Rastreador 7d</p>
                                             </td>
 
                                             <td>
                                                 <p class="inbox-item-text mb-3"><strong>Qtd. Serviços:</strong> 8</p>
                                                 <p class="inbox-item-text mb-3"><strong>Localidade:</strong> Jundiaí / SP
                                                 </p>
-                                                <p class="inbox-item-text"><strong>kit BOM:</strong> 2211</p>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <p class="text-brown text-bold fw-bold">
-                                                    Data necessidade:
-                                                    <span class="badge text-bg-warning">02/05/2023
-                                                        13:19:10
-                                                    </span>
-                                                </p>
-                                                <p class="inbox-item-text mb"><strong>Destino remessa:</strong> Técnico</p>
                                                 <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
-                                                        href="Cliente.aspx?id=20210331163058">01 CARGO TRANSPORTES</a></p>
-                                                <p class="inbox-item-text" id=""><strong>Ordem de Serviço:</strong> <a
-                                                        target="_blank" href="/programacao">954232</a>
-                                                </p>
-                                            </td>
+                                                        href="Cliente.aspx?id=20210331163058">CA TRANSPORTES</a></p>
 
-                                            <td>
-                                                <p class="inbox-item-text mb-3"><strong>Proposta:</strong> 789123</p>
-                                                <p class="inbox-item-text mb-3"><strong>Operação:</strong> Instalação</p>
-                                                <p class="inbox-item-text"><strong>Produto:</strong> Imobilizador</p>
-                                            </td>
-
-                                            <td>
-                                                <p class="inbox-item-text mb-3"><strong>Qtd. Serviços:</strong> 8</p>
-                                                <p class="inbox-item-text mb-3"><strong>Localidade:</strong> Jundiaí / SP
-                                                </p>
-                                                <p class="inbox-item-text"><strong>kit BOM:</strong> 2211</p>
                                             </td>
                                         </tr>
                                         <tr>
@@ -269,24 +242,25 @@
                                                     </span>
                                                 </p>
                                                 <p class="inbox-item-text mb"><strong>Destino remessa:</strong> Técnico</p>
-                                                <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
-                                                        href="Cliente.aspx?id=20210331163058">01 CARGO TRANSPORTES</a></p>
+
                                                 <p class="inbox-item-text" id=""><strong>Ordem de Serviço:</strong> <a
                                                         target="_blank" href="/programacao">954232</a>
                                                 </p>
                                             </td>
 
                                             <td>
-                                                <p class="inbox-item-text mb-3"><strong>Proposta:</strong> 789123</p>
+                                                <p class="inbox-item-text mb-3"><strong>Código:</strong> 789123</p>
                                                 <p class="inbox-item-text mb-3"><strong>Operação:</strong> Instalação</p>
-                                                <p class="inbox-item-text"><strong>Produto:</strong> Imobilizador</p>
+                                                <p class="inbox-item-text"><strong>Produto:</strong> Rastreador 7d</p>
                                             </td>
 
                                             <td>
                                                 <p class="inbox-item-text mb-3"><strong>Qtd. Serviços:</strong> 8</p>
                                                 <p class="inbox-item-text mb-3"><strong>Localidade:</strong> Jundiaí / SP
                                                 </p>
-                                                <p class="inbox-item-text"><strong>kit BOM:</strong> 2211</p>
+                                                <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
+                                                        href="Cliente.aspx?id=20210331163058">CA TRANSPORTES</a></p>
+
                                             </td>
                                         </tr>
                                         <tr>
@@ -298,24 +272,25 @@
                                                     </span>
                                                 </p>
                                                 <p class="inbox-item-text mb"><strong>Destino remessa:</strong> Técnico</p>
-                                                <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
-                                                        href="Cliente.aspx?id=20210331163058">01 CARGO TRANSPORTES</a></p>
+
                                                 <p class="inbox-item-text" id=""><strong>Ordem de Serviço:</strong> <a
                                                         target="_blank" href="/programacao">954232</a>
                                                 </p>
                                             </td>
 
                                             <td>
-                                                <p class="inbox-item-text mb-3"><strong>Proposta:</strong> 789123</p>
+                                                <p class="inbox-item-text mb-3"><strong>Código:</strong> 789123</p>
                                                 <p class="inbox-item-text mb-3"><strong>Operação:</strong> Instalação</p>
-                                                <p class="inbox-item-text"><strong>Produto:</strong> Imobilizador</p>
+                                                <p class="inbox-item-text"><strong>Produto:</strong> Rastreador 7d</p>
                                             </td>
 
                                             <td>
                                                 <p class="inbox-item-text mb-3"><strong>Qtd. Serviços:</strong> 8</p>
                                                 <p class="inbox-item-text mb-3"><strong>Localidade:</strong> Jundiaí / SP
                                                 </p>
-                                                <p class="inbox-item-text"><strong>kit BOM:</strong> 2211</p>
+                                                <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
+                                                        href="Cliente.aspx?id=20210331163058">CA TRANSPORTES</a></p>
+
                                             </td>
                                         </tr>
                                         <tr>
@@ -327,24 +302,52 @@
                                                     </span>
                                                 </p>
                                                 <p class="inbox-item-text mb"><strong>Destino remessa:</strong> Técnico</p>
-                                                <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
-                                                        href="Cliente.aspx?id=20210331163058">01 CARGO TRANSPORTES</a></p>
                                                 <p class="inbox-item-text" id=""><strong>Ordem de Serviço:</strong> <a
                                                         target="_blank" href="/programacao">954232</a>
                                                 </p>
                                             </td>
 
                                             <td>
-                                                <p class="inbox-item-text mb-3"><strong>Proposta:</strong> 789123</p>
+                                                <p class="inbox-item-text mb-3"><strong>Código:</strong> 789123</p>
                                                 <p class="inbox-item-text mb-3"><strong>Operação:</strong> Instalação</p>
-                                                <p class="inbox-item-text"><strong>Produto:</strong> Imobilizador</p>
+                                                <p class="inbox-item-text"><strong>Produto:</strong> Rastreador 7d</p>
                                             </td>
 
                                             <td>
                                                 <p class="inbox-item-text mb-3"><strong>Qtd. Serviços:</strong> 8</p>
                                                 <p class="inbox-item-text mb-3"><strong>Localidade:</strong> Jundiaí / SP
                                                 </p>
-                                                <p class="inbox-item-text"><strong>kit BOM:</strong> 2211</p>
+                                                <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
+                                                        href="Cliente.aspx?id=20210331163058">CA TRANSPORTES</a></p>
+
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p class="text-brown text-bold fw-bold">
+                                                    Data necessidade:
+                                                    <span class="badge text-bg-warning">02/05/2023
+                                                        13:19:10
+                                                    </span>
+                                                </p>
+                                                <p class="inbox-item-text mb"><strong>Destino remessa:</strong> Técnico</p>
+                                                <p class="inbox-item-text" id=""><strong>Ordem de Serviço:</strong> <a
+                                                        target="_blank" href="/programacao">954232</a>
+                                                </p>
+                                            </td>
+
+                                            <td>
+                                                <p class="inbox-item-text mb-3"><strong>Código:</strong> 789123</p>
+                                                <p class="inbox-item-text mb-3"><strong>Operação:</strong> Instalação</p>
+                                                <p class="inbox-item-text"><strong>Produto:</strong> Rastreador 7d</p>
+                                            </td>
+
+                                            <td>
+                                                <p class="inbox-item-text mb-3"><strong>Qtd. Serviços:</strong> 8</p>
+                                                <p class="inbox-item-text mb-3"><strong>Localidade:</strong> Jundiaí / SP
+                                                </p>
+                                                <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
+                                                        href="Cliente.aspx?id=20210331163058">CA TRANSPORTES</a></p>
                                             </td>
                                         </tr>
 

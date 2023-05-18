@@ -246,17 +246,17 @@ export default {
             var dataSet = shuffleArray(arrayData)
 
             var dataYearSeries = [{
-                x: "Thiago",
+                x: "Victor",
                 y: dataSet[0].y,
                 color: colors[0],
                 quarters: dataSet[0].quarters
             }, {
-                x: "Leite",
+                x: "Pinheiro",
                 y: dataSet[1].y,
                 color: colors[1],
                 quarters: dataSet[1].quarters
             }, {
-                x: "Felipe",
+                x: "João",
                 y: dataSet[2].y,
                 color: colors[2],
                 quarters: dataSet[2].quarters

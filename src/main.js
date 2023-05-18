@@ -35,6 +35,7 @@ const router = createRouter({
     { path: '/colaboradores', name: 'Colaboradores', component: () => import('./views/Colaboradores.vue') },
     { path: '/demanda', name: 'Demanda', component: () => import('./views/Demanda.vue') },
     { path: '/programacao', name: 'Programacao', component: () => import('./views/Programacao.vue') },
+    { path: '/filaAgendamento', name: 'FilaAgendamento', component: () => import('./views/FilaAgendamento.vue') },
 
   ],
 });
