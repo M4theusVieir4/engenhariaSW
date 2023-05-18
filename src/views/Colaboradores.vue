@@ -14,11 +14,6 @@
                             Última semana
                         </a>
                     </li>
-                    <li class="nav-item">
-                        <a href="#friendUsers" data-bs-toggle="tab" aria-expanded="true" class="nav-link py-2">
-                            Último mês
-                        </a>
-                    </li>
                 </ul>
             </div>
         </div>

@@ -69,8 +69,7 @@
                                             <td>
                                                 <p class="text-brown text-bold fw-bold">
                                                     Data necessidade:
-                                                    <span
-                                                        class="badge badge-warning-lighten ml-2 font-6 text-lowercase">02/05/2023
+                                                    <span class="badge text-bg-warning">02/05/2023
                                                         13:19:10
                                                     </span>
                                                 </p>
@@ -78,8 +77,7 @@
                                                 <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
                                                         href="Cliente.aspx?id=20210331163058">01 CARGO TRANSPORTES</a></p>
                                                 <p class="inbox-item-text" id="954232"><strong>Ordem de Serviço:</strong> <a
-                                                        target="_blank"
-                                                        href="DashboardAgendamento/OrdemServico.aspx?id=954232">954232</a>
+                                                        target="_blank" href="/programacao">954232</a>
                                                 </p>
                                             </td>
 
@@ -101,8 +99,7 @@
                                             <td>
                                                 <p class="text-brown text-bold fw-bold mb-3">
                                                     Data necessidade:
-                                                    <span
-                                                        class="badge badge-warning-lighten ml-2 font-6 text-lowercase">05/05/2023
+                                                    <span class="badge text-bg-warning">02/05/2023
                                                         13:19:10
                                                     </span>
                                                 </p>
@@ -110,8 +107,7 @@
                                                 <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
                                                         href="Clientes.aspx">ARTICO LOG LTDA</a></p>
                                                 <p class="inbox-item-text" id="21825"><strong>Ordem de Serviço:</strong> <a
-                                                        target="_blank"
-                                                        href="DashboardAgendamento/Programacao.aspx?id=21825">21825</a></p>
+                                                        target="_blank" href="/programacao">21825</a></p>
                                             </td>
 
                                             <td>
@@ -130,8 +126,7 @@
                                             <td>
                                                 <p class="text-brown text-bold fw-bold mb-3">
                                                     Data necessidade:
-                                                    <span
-                                                        class="badge badge-warning-lighten ml-2 font-6 text-lowercase">30/05/2023
+                                                    <span class="badge text-bg-warning">02/05/2023
                                                         13:19:10
                                                     </span>
                                                 </p>
@@ -139,8 +134,7 @@
                                                 <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
                                                         href="Clientes.aspx">ARTICO LOG LTDA</a></p>
                                                 <p class="inbox-item-text" id="23370"><strong>Programação:</strong> <a
-                                                        target="_blank"
-                                                        href="DashboardAgendamento/Programacao.aspx?id=23370">23370</a></p>
+                                                        target="_blank" href="/programacao">23370</a></p>
                                             </td>
                                             <td>
                                                 <p class="inbox-item-text mb-3"><strong>Proposta:</strong> 789123</p>
@@ -159,8 +153,7 @@
                                             <td>
                                                 <p class="text-brown text-bold fw-bold mb-3">
                                                     Data necessidade:
-                                                    <span
-                                                        class="badge badge-warning-lighten ml-2 font-6 text-lowercase">21/05/2023
+                                                    <span class="badge text-bg-warning">02/05/2023
                                                         13:19:10
                                                     </span>
                                                 </p>
@@ -168,8 +161,7 @@
                                                 <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
                                                         href="Clientes.aspx">MIRASSOL LOGISTICA LTDA - FILIAL</a></p>
                                                 <p class="inbox-item-text" id="1055301"><strong>Ordem de Servico:</strong>
-                                                    <a target="_blank"
-                                                        href="DashboardAgendamento/OrdemServico.aspx?id=1055301">1055301</a>
+                                                    <a target="_blank" href="/programacao">1055301</a>
                                                 </p>
                                             </td>
                                             <td>
@@ -187,8 +179,7 @@
                                             <td>
                                                 <p class="text-brown text-bold fw-bold mb-3">
                                                     Data necessidade:
-                                                    <span
-                                                        class="badge badge-warning-lighten ml-2 font-6 text-lowercase">20/05/2023
+                                                    <span class="badge text-bg-warning">02/05/2023
                                                         13:19:10
                                                     </span>
                                                 </p>
@@ -196,8 +187,7 @@
                                                 <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
                                                         href="Clientes.aspx">MARGIL TRANSPORTES LTDA</a></p>
                                                 <p class="inbox-item-text" id="22311"><strong>Programação:</strong> <a
-                                                        target="_blank"
-                                                        href="DashboardAgendamento/Programacao.aspx?id=22311">22311</a></p>
+                                                        target="_blank" href="/programacao">22311</a></p>
                                             </td>
 
                                             <td>
@@ -217,8 +207,35 @@
                                             <td>
                                                 <p class="text-brown text-bold fw-bold">
                                                     Data necessidade:
-                                                    <span
-                                                        class="badge badge-warning-lighten ml-2 font-6 text-lowercase">02/05/2023
+                                                    <span class="badge text-bg-warning">02/05/2023
+                                                    </span>
+                                                </p>
+                                                <p class="inbox-item-text mb"><strong>Destino remessa:</strong> Técnico</p>
+                                                <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
+                                                        href="Cliente.aspx?id=20210331163058">01 CARGO TRANSPORTES</a></p>
+                                                <p class="inbox-item-text" id=""><strong>Ordem de Serviço:</strong> <a
+                                                        target="_blank" href="/programacao">954232</a>
+                                                </p>
+                                            </td>
+
+                                            <td>
+                                                <p class="inbox-item-text mb-3"><strong>Proposta:</strong> 789123</p>
+                                                <p class="inbox-item-text mb-3"><strong>Operação:</strong> Instalação</p>
+                                                <p class="inbox-item-text"><strong>Produto:</strong> Imobilizador</p>
+                                            </td>
+
+                                            <td>
+                                                <p class="inbox-item-text mb-3"><strong>Qtd. Serviços:</strong> 8</p>
+                                                <p class="inbox-item-text mb-3"><strong>Localidade:</strong> Jundiaí / SP
+                                                </p>
+                                                <p class="inbox-item-text"><strong>kit BOM:</strong> 2211</p>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <p class="text-brown text-bold fw-bold">
+                                                    Data necessidade:
+                                                    <span class="badge text-bg-warning">02/05/2023
                                                         13:19:10
                                                     </span>
                                                 </p>
@@ -226,8 +243,7 @@
                                                 <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
                                                         href="Cliente.aspx?id=20210331163058">01 CARGO TRANSPORTES</a></p>
                                                 <p class="inbox-item-text" id=""><strong>Ordem de Serviço:</strong> <a
-                                                        target="_blank"
-                                                        href="DashboardAgendamento/OrdemServico.aspx?id=954232">954232</a>
+                                                        target="_blank" href="/programacao">954232</a>
                                                 </p>
                                             </td>
 
@@ -248,8 +264,7 @@
                                             <td>
                                                 <p class="text-brown text-bold fw-bold">
                                                     Data necessidade:
-                                                    <span
-                                                        class="badge badge-warning-lighten ml-2 font-6 text-lowercase">02/05/2023
+                                                    <span class="badge text-bg-warning">02/05/2023
                                                         13:19:10
                                                     </span>
                                                 </p>
@@ -257,8 +272,7 @@
                                                 <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
                                                         href="Cliente.aspx?id=20210331163058">01 CARGO TRANSPORTES</a></p>
                                                 <p class="inbox-item-text" id=""><strong>Ordem de Serviço:</strong> <a
-                                                        target="_blank"
-                                                        href="DashboardAgendamento/OrdemServico.aspx?id=954232">954232</a>
+                                                        target="_blank" href="/programacao">954232</a>
                                                 </p>
                                             </td>
 
@@ -279,8 +293,7 @@
                                             <td>
                                                 <p class="text-brown text-bold fw-bold">
                                                     Data necessidade:
-                                                    <span
-                                                        class="badge badge-warning-lighten ml-2 font-6 text-lowercase">02/05/2023
+                                                    <span class="badge text-bg-warning">02/05/2023
                                                         13:19:10
                                                     </span>
                                                 </p>
@@ -288,8 +301,7 @@
                                                 <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
                                                         href="Cliente.aspx?id=20210331163058">01 CARGO TRANSPORTES</a></p>
                                                 <p class="inbox-item-text" id=""><strong>Ordem de Serviço:</strong> <a
-                                                        target="_blank"
-                                                        href="DashboardAgendamento/OrdemServico.aspx?id=954232">954232</a>
+                                                        target="_blank" href="/programacao">954232</a>
                                                 </p>
                                             </td>
 
@@ -310,39 +322,7 @@
                                             <td>
                                                 <p class="text-brown text-bold fw-bold">
                                                     Data necessidade:
-                                                    <span
-                                                        class="badge badge-warning-lighten ml-2 font-6 text-lowercase">02/05/2023
-                                                        13:19:10
-                                                    </span>
-                                                </p>
-                                                <p class="inbox-item-text mb"><strong>Destino remessa:</strong> Técnico</p>
-                                                <p class="inbox-item-text mb-3"><strong>Cliente:</strong> <a target="_blank"
-                                                        href="Cliente.aspx?id=20210331163058">01 CARGO TRANSPORTES</a></p>
-                                                <p class="inbox-item-text" id=""><strong>Ordem de Serviço:</strong> <a
-                                                        target="_blank"
-                                                        href="DashboardAgendamento/OrdemServico.aspx?id=954232">954232</a>
-                                                </p>
-                                            </td>
-
-                                            <td>
-                                                <p class="inbox-item-text mb-3"><strong>Proposta:</strong> 789123</p>
-                                                <p class="inbox-item-text mb-3"><strong>Operação:</strong> Instalação</p>
-                                                <p class="inbox-item-text"><strong>Produto:</strong> Imobilizador</p>
-                                            </td>
-
-                                            <td>
-                                                <p class="inbox-item-text mb-3"><strong>Qtd. Serviços:</strong> 8</p>
-                                                <p class="inbox-item-text mb-3"><strong>Localidade:</strong> Jundiaí / SP
-                                                </p>
-                                                <p class="inbox-item-text"><strong>kit BOM:</strong> 2211</p>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <p class="text-brown text-bold fw-bold">
-                                                    Data necessidade:
-                                                    <span
-                                                        class="badge badge-warning-lighten ml-2 font-6 text-lowercase">02/05/2023
+                                                    <span class="badge text-bg-warning">02/05/2023
                                                         13:19:10
                                                     </span>
                                                 </p>
@@ -400,14 +380,14 @@ export default {
     mounted() {
 
         var defaultEvents = [{
-            title: '<i class="fa-sm bi bi-send-check"></i>',
+            title: '<i class="fa-md bi bi-send-check"></i>',
             start: "2023-05-02T06:00:00",
             end: "2023-05-02T10:00:00",
             className: 'bg-warning',
             extendedProps: { period: '', idProgramacao: 954232 }
         },
         {
-            title: '<i class="fa-sm bi bi-send-check"></i>>',
+            title: '<i class="fa-md bi bi-send-check"></i>',
             start: "2023-05-05T06:00:00",
             end: "2023-05-05T10:00:00",
             className: 'bg-warning',
